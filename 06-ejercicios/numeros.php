@@ -1,0 +1,44 @@
+<?php
+    echo "<table border='0' cellspading='2' bgcolor='black' width='200'>";
+    echo  "<tr bgcolor='white' height= 50>";
+    echo "<td width= 50>One</td>";
+    echo "<td width= 50>Uno</td>";
+    echo "</tr>";
+    echo "<tr bgcolor='white' height= 50>";
+    echo "<td width= 50>Two</td>";
+    echo "<td width= 50>Dos</td>";
+    echo "</tr>";
+     echo "<tr bgcolor='white' height= 50>";
+    echo "<td width= 50>Three</td>";
+    echo "<td width= 50>Tres</td>";
+    echo "</tr>";
+    echo "<tr bgcolor='white' height= 50>";
+    echo "<td width= 50>Four</td>";
+    echo "<td width= 50>Cuatro</td>";
+    echo "</tr>";
+    echo "<tr bgcolor='white' height= 50>";
+    echo "<td width= 50>Five</td>";
+    echo "<td width= 50>Cinco</td>";
+    echo "</tr>";
+     echo "<tr bgcolor='white' height= 50>";
+    echo "<td width= 50>Six</td>";
+    echo "<td width= 50>Seis</td>";
+    echo "</tr>";
+    echo "<tr bgcolor='white' height= 50>";
+    echo "<td width= 50>Seven</td>";
+    echo "<td width= 50>Siete</td>";
+    echo "</tr>";
+    echo "<tr bgcolor='white' height= 50>";
+    echo "<td width= 50>Eight</td>";
+    echo "<td width= 50>Ocho</td>";
+    echo "</tr>";
+    echo "<tr bgcolor='white' height= 50>";
+    echo "<td width= 50>Nine</td>";
+    echo "<td width= 50>nueve</td>";
+    echo "</tr>";
+    echo "<tr bgcolor='white' height= 50>";
+    echo "<td width= 50>Ten</td>";
+    echo "<td width= 50>Diez</td>";
+    echo "</tr>";
+    echo "</table>"
+?>
